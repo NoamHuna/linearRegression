@@ -29,12 +29,5 @@ To aid in understanding the model's performance, the program provides visualizat
 To use the program, follow these steps:
 1. Ensure you have Python installed on your system.
 2. Clone or download the repository containing the program files.
-3. Install the required dependencies using `pip install -r requirements.txt`.
 4. Prepare your known data in a CSV file format.
-5. Run the program with the command `python linear_regression_predictor.py`.
-6. Follow the on-screen instructions to input the file path, select features, and evaluate the model.
 
-## Example
-Here's a simple example of how to use the program:
-```python
-python linear_regression_predictor.py
