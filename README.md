@@ -10,7 +10,7 @@ The program performs the following tasks:
 - Trains a linear regression model using the training data.
 - Predicts the dependent variable values for the testing data using the trained model.
 - Evaluates the performance of the model by comparing predicted values with actual values.
-- Visualizes the results through plots or metrics.
+- Visualizes the results through plots.
 
 ## Key Components
 ### 1. Data Loading and Preparation
